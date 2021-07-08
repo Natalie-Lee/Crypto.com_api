@@ -1,1 +1,1 @@
-# Crypto.com_api_wrapper
+# Crypto.com_api
